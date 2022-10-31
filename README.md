@@ -14,7 +14,7 @@ This is the project is prediction win of each team in NBA in 2016-2022. Then we'
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
       
 
-### :
+### Overview of the code
 - Step 1: We Read the data from NBA_Games
 - Step 2: We do Exploratory Data Analysis
 - Step 3 : We imput the library for machine learning
@@ -25,8 +25,7 @@ This is the project is prediction win of each team in NBA in 2016-2022. Then we'
 - Step 8 : We use the metrics accuracy score to give explain about our model
 
 
-### You can add 
-[Links](https://itsvg.in)
+
 
 
       
